@@ -87,7 +87,7 @@ input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-i
 }
 
 .randomlyAssignBtn {
-  color: var(--color-primary);
+  color: var(--color-grey);
   font-size: var(--font-size-small);
   white-space: nowrap;
   margin: 0 auto 0 0;
@@ -200,7 +200,7 @@ input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-i
   padding: 0;
   outline: none !important;
   span {
-    color: var(--color-blue-light);
+    color: var(--color-grey);
   }
 }
 
@@ -243,7 +243,7 @@ input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-i
 }
 
 .buttonAdd {
-  flex: 0 1 35%;
+  flex: 0 1 70%;
 }
 
 .selectUserContainer {

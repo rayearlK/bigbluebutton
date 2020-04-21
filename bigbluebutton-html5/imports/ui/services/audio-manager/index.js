@@ -20,7 +20,7 @@ const CALL_STATES = {
   STARTED: 'started',
   ENDED: 'ended',
   FAILED: 'failed',
-  RECONNECTING: 'reconnecting',
+  RECONNECTING: 'Twasoma: reconnecting',
   AUTOPLAY_BLOCKED: 'autoplayBlocked',
 };
 
