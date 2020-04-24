@@ -1,4 +1,4 @@
-/* eslint no-use-before-define: 0 */  // --> OFF
+/* eslint no-use-before-define: 0 */ // --> OFF
 import { Tracker } from 'meteor/tracker';
 import KurentoBridge from '/imports/api/audio/client/bridge/kurento';
 import Auth from '/imports/ui/services/auth';
